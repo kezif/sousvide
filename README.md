@@ -1,4 +1,4 @@
-# Self-made sous-vide
+# Sous-vide
 My culinary adventures brought me to the intriguing device named sous vide. The main gimmick of it is its ability to maintain a stable desired temperature for as long as you need. <br>
 ## Research
 Store-bought solutions were out of my budget ($100+ for a basic model).
@@ -11,7 +11,7 @@ To put it simply, the device consists of the aforementioned parts:
 1. Heating element
 2. Temperature sensor
 3. Circulator (fan)
-Temperature sensor probes temperature of water, and if needed, engages heating element; fan is used to circulate water so the overall temperature is even. <br>
+<br>Temperature sensor probes temperature of water, and if needed, engages heating element; fan is used to circulate water so the overall temperature is even. <br>
 ## My version
 To test the contraption, I've built the simplest version without circulator and controls.
 Here is the wiring diagram on how to connect everything:
